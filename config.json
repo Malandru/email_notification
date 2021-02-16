@@ -1,0 +1,7 @@
+{
+    "from": "your.address@gmail.com",
+    "password": "password",
+    "to": ["example@domain.com"],
+    "subject": "Custom subject",
+    "message": "Body text"
+}
